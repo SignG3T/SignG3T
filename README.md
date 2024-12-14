@@ -1,5 +1,3 @@
-Here's the translation in English:
-
 # 💫 About Me:
 🔭 I am currently working on projects related to S.A.D.I.<br>🌱 I am learning React.js to develop modern applications<br>💬 If you have any questions, I am always ready to help<br>⚡ Fun fact: did you know AI can create amazing recipes, even for a cake? :)
 
