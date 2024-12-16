@@ -1,7 +1,7 @@
 # 🌟 Welcome to My World!  
 
 ## 🔍 Who Am I?  
-✨ Currently crafting ideas and code for projects under S.A.D.I.<br>🌱 On a journey to master **React.js** and build seamless, modern applications.<br>💡 Open to answering your questions—problem-solving is my superpower!<br>🎉 Fun fact: AI doesn’t just create apps; it can bake a perfect cake recipe, too!  
+✨ Currently crafting ideas and code for projects under GlobalMC.<br>🌱 On a journey to master **React.js** and build seamless, modern applications.<br>💡 Open to answering your questions—problem-solving is my superpower!<br>🎉 Fun fact: AI doesn’t just create apps; it can bake a perfect cake recipe, too!  
 
 ## 💻 My Arsenal:  
 From backend brilliance to front-end finesse, here’s what powers my work:  
